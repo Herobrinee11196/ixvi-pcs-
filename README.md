@@ -79,3 +79,9 @@ This project is part of the mission to become the local PC plug. 🔌
 ## 📣 Stay tuned
 
 More coming soon. Stay crispy 🧃🍟
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
